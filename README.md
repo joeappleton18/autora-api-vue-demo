@@ -4,12 +4,12 @@ This is a very simple example of how to connect to the Autora API; simply follow
 
 ## Clone this repo 
 
-git clone <repo name>
+git clone https://github.com/joeappleton18/autora-api-vue-demo.git
 
 ## Set up the config file 
 
-- rename `src/config.example.js` to `src /config.js`
-- add the Autora API key to config.js, which can be found in the note
+- within your cloned repo rename `src/config.example.js` to `src /config.js`
+- add the Autora API key to config.js, which can be found in the notes
 
 ## Project setup
 ```
@@ -26,7 +26,8 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-``
+
+```
 
 # Further Documentation 
 
