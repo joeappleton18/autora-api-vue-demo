@@ -1,6 +1,6 @@
 # autora-starter-project
 
-This is a very simple example of how to connect to the Autora API
+This is a very simple example of how to connect to the Autora API; simply follow the steps outlined below:
 
 ## Clone this repo 
 
